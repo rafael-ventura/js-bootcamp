@@ -1,6 +1,6 @@
 # js-bootcamp
 
-## Lol
+## Udemy Classes
 
  Exercises and apps learned from Modern JavaScript Bootcamp
 
