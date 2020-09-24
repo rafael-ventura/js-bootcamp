@@ -1,6 +1,6 @@
-# js-bootcamp
+># js-bootcamp
 
-## Udemy Classes
+Udemy Classes
 
- Exercises and apps learned from Modern JavaScript Bootcamp
+Exercises and apps learned from Modern JavaScript Bootcamp
 
