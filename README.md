@@ -2,5 +2,5 @@
 
 >Udemy Classes
 
-Exercises and apps learned from Modern JavaScript Bootcamp [classes](https://mead.io/)
+A quickly bootcamp from Andrew Mead [classes](https://mead.io/), learning JS ES6 and the most essentials features of Modern JavaScript
 
