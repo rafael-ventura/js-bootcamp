@@ -29,5 +29,5 @@ const findNoteByTitle = function (notesFile, noteWanted) {
     })
 }
 
-const note = findNoteByTitle(notes, 'africa');
+const note = findNoteByTitle(notes, 'a');
 console.log(note);
